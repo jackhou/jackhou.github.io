@@ -1,2 +1,2 @@
 # jackhou.github.io
-My Personal Page
+This is my personal github page! 
